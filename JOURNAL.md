@@ -52,6 +52,9 @@ Different Research:
 - Doppler Effect:
 	- https://www.grc.nasa.gov/www/k-12/airplane/doppler.html
 
+![image](https://github.com/user-attachments/assets/261673fb-0cb7-4189-9690-622d5f361063)
+Image 1. First Steps of my project
+
 # Entry #1 - 03-20-25: Research
 
 Types of Speakers
@@ -195,6 +198,8 @@ Individual researches:
 - Power Flow Management: [[Pagtingin Study - Power Management and Flow - 03-24-25]]
 - Voltage Supervising & Protection Circuit: N/A
 
+![image](https://github.com/user-attachments/assets/53de69f2-5ffe-4338-beeb-3cc9c7723cee)
+Image 2. Looking for Components
 
 # Entry #4 - 03-23-25: Searching for SMD Components
 
@@ -217,6 +222,13 @@ Transistor
 ### -- INCOMPLETE --
 
 ## APRIL
+
+## IMAGES OF APRIL WORK
+![image](https://github.com/user-attachments/assets/d44ea76a-51b4-44e8-9726-1fb0a5bd1495)
+Image 3. Working with the PAM8403 Audio Amp Chip - 04-06-25
+
+![image](https://github.com/user-attachments/assets/2e9d16df-faf4-4a74-844f-443c71c0d51d)
+Image 4. Working with the ESP32-PICO-D4 - 04-07-25
 
 # Entry #5 - 04-13-25: Total and Peak Current of Components Chosen:
 
@@ -274,7 +286,19 @@ Needs 1Ah, 3.7V, and 2C of discharge
 It is a balanced ground but to optimize for power:
 - Utilize the sleep modes of each component
 
+![image](https://github.com/user-attachments/assets/c3472202-c220-4431-8635-add35ea4a3ef)
+Image 5. Searching for a better PMIC - 04-20-25
+
+
 ## For May, I mainly did the Firmware but I wasn't able to document it since it was before Highway was announced.
+
+Here are some pictures though (I videod my sessions)
+![image](https://github.com/user-attachments/assets/863ba716-f730-42a1-9640-a9794eaba403)
+Image 6. Learning About TOF Sensor - 05-01-2025
+
+![image](https://github.com/user-attachments/assets/d5717240-67b8-4de8-bf87-b7aa4c540679)
+Image 7. Transferring my Raspbery Pi Pico Code to ESP32 - 05-15-2025
+
 
 
 ## June: After Highway was announced
@@ -320,6 +344,9 @@ To do list:
 - See what happens for separate prints
 - Do the temple design next
 
+![image](https://github.com/user-attachments/assets/35607c8f-1fc4-418f-93a1-f6f30354e74b)
+Image 8. Making the Glasses CAD
+
 # Entry 07 - 06-13-25: Schematic Session 01
 
 
@@ -342,10 +369,12 @@ Here are the estimated measurements:
 
 
 To do list for tomorrow:
-- Using the glasses template templo, manipulate it in a way that will symbolize how i want it to be
 - IN the afternoon, try to finish the schematic now
 To do list:
 - Try to make space for the TOF sensor by making a hole on each of the glasses' sides
+
+![image](https://github.com/user-attachments/assets/ec6de011-6153-4ce5-83ff-acc42ae4a168)
+Image 9. Brainstorming for PCB Shape and Design
 
 
 # Entry 08 - 06-14-25: Modular PCB Designing & Glasses CAD Design
@@ -393,6 +422,12 @@ Why modular PCB?
 
 Refer: [[PCB Making - What is a Flat Flexible Cable (FFC) - 06-15-25]]
 
+![image](https://github.com/user-attachments/assets/9877d061-d936-4241-9715-fa4177a7aab3)
+Image 10. Finished Frame of the Glasses
+
+![image](https://github.com/user-attachments/assets/01a7da1d-98db-4ecf-b8e5-c349ae099ca5)
+Image 11. Finished Templo of the Glasses 
+
 # Entry 09 - 06-15-25: Schematic Session 02
 
 For this schematic session:
@@ -420,6 +455,10 @@ To do list:
 - Check up on the audio module, esp. the DAC
 - Double check MCU schematic
 - Set up values for the inductors on each page
+
+
+![image](https://github.com/user-attachments/assets/09e2364f-6601-4fff-b6db-38a73595f5a0)
+Image 12. Doing Latching Circuit
 
 # Entry #10 - 06-17-25: Schematic Session 03
 
